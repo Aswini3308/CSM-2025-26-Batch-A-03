@@ -1,2 +1,2 @@
-# Deep Fake Audio Detection using Deep Learning 
-Deep Fake Audio Detection using Deep Learning  This project presents an advanced approach to detecting synthetic or manipulated audio using a hybrid deep learning model that combines Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTMs).
+# Revolutionizing Cloud Data Security with Elliptic Curve Cryptography 
+Revolutionizing Cloud Data Security with Elliptic Curve Cryptography proposes integrating Elliptic Curve Cryptography (ECC), which offers enhanced security with smaller key sizes and superior efficiency. This system will implement advanced role-based and attribute-based authorization mechanisms to ensure only authorized users can access and search data. Additionally, it will support automatic updating of audit logs to bolster system integrity and traceability, thus advancing cloud data management by addressing current security and performance gaps.
