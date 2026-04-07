@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chandragiri road fixing",
+          "damage_level": "Severe",
+          "structure": "road fixing",
+          "status": "NOT STARTED",
+          "notes": "Roof collapsed, walls cracked"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [13.579199, 79.313924],
+              [13.3990, 42.3512],
+              [13.3990, 42.3508],
+              [13.3985, 42.3508],
+              [13.3985, 42.3512]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Parking Area",
+          "damage_level": "Moderate",
+          "structure": "Asphalt",
+          "status": "NOT_STARTED",
+          "notes": "Cracks and potholes"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [13.3992, 42.3510],
+              [13.3998, 42.3510],
+              [13.3998, 42.3505],
+              [13.3992, 42.3505],
+              [13.3992, 42.3510]
+            ]
+          ]
+        }
+      }
+    ]
+  }
